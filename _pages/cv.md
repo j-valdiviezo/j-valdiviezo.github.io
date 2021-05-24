@@ -19,8 +19,8 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Chemistry, Duke University, 2021 (expected)
-* M.S. in Electrical & Computer Engineering, Duke University, 2021 (expected)
+* Ph.D in Chemistry, Duke University, 2021
+* M.S. in Electrical & Computer Engineering, Duke University, 2021 
 * B.S. in Chemistry, Tecnologico de Monterrey, 2016
 
 Work Experience
