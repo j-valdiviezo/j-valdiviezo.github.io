@@ -17,7 +17,8 @@ Education
 
 Work Experience
 ======
-* E-Sentience LLC | Co-Founder | Dec. 2019 - Present
+* E-Sentience LLC 
+  Co-Founder, Dec. 2019 - Present
   * Building a startup on AI-powered microfluidic devices for sensing. 
 
 * Duke University | Research & Teaching Assistant | Aug. 2016 - Present
