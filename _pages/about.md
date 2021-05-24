@@ -20,6 +20,8 @@ Please feel free to reach out if you have questions about my work & experience.
 
 
 <img src="/images/Duke_University_logo.svg" width="200" />
+<img src="/images/Berkeley_logo.svg" width="200" />
+<img src="/images/Tecnologico_Monterrey_logo.png" width="200" />
 <img src="/images/500x300.png" width="200" />
 
 Duke_University_logo.svg
