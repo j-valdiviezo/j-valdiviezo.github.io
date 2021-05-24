@@ -15,9 +15,9 @@ I'm also a co-founder of E-Sentience LLC, a startup that uses AI to develop micr
 
 Please feel free to reach out if you have questions about my work & experience.
 
-<img src="/images/Berkeley_logo.svg" height="200" />
-<img src="/images/Duke_University_logo.svg" height="200" />
-<img src="/images/Tecnologico_Monterrey_logo.png" height="200" />
+<img src="/images/Berkeley_logo.svg" height="50" />
+<img src="/images/Duke_University_logo.svg" height="50" />
+<img src="/images/Tecnologico_Monterrey_logo.png" height="50" />
 
 
 
