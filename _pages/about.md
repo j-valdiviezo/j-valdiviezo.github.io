@@ -15,4 +15,4 @@ I'm also a co-founder of E-Sentience LLC, a startup that uses AI to develop micr
 
 Please feel free to reach out if you have questions about my work & experience.
 
-* Email: jesus.valdiviezo@duke.edu
+![](/images/500x300.png | width=100)
