@@ -9,8 +9,8 @@
 locale                   : "en-US"
 title                    : "Jesús Valdiviezo"
 title_separator          : "-"
-name                     : &name "Your Name"
-description              : &description "personal description"
+name                     : &name "Jesús Valdiviezo"
+description              : &description "Computational Chemist & ML Engineer"
 url                      : https://j-valdiviezo.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "j-valdiviezo/j-valdiviezo.github.io"
@@ -87,7 +87,7 @@ author:
   employer         : "Duke University"
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=SfdJnEgAAAAJ"
-  email            :
+  email            : "jesus.valdiviezo@duke.edu"
   researchgate     : "https://www.researchgate.net/profile/Jesus-Valdiviezo"
   uri              :
   bitbucket        :
