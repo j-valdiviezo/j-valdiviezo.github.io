@@ -15,6 +15,9 @@ I'm also a co-founder of E-Sentience LLC, a startup that uses AI to develop micr
 
 Please feel free to reach out if you have questions about my work & experience.
 
-![](https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png | width=100)
+
+<img src="https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png" width="200" />
+
+![image](https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png | width=100)
 
 #![](/images/500x300.png | width=100)
