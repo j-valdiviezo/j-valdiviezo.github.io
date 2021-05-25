@@ -13,6 +13,8 @@ Welcome! I'm a Fulbright alumnuns and an incoming postdoctoral scholar at UC Ber
 
 I'm co-founder of E-Sentience LLC, a startup that uses AI to develop microfluidic devices for sensing. 
 
+I'm interested in accelerating progress in Natural Sciences with Machine Learning by developing materials discovery platforms, optimizing materials synthesis, and performing accurate large-scale simulations of chemical processes to address the current global environmental and health challenges.
+
 Please feel free to reach out if you have questions about my work & experience.
 
 
