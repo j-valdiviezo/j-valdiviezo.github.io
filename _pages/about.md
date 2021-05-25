@@ -18,8 +18,8 @@ Please feel free to reach out if you have questions about my work & experience.
 
 
 
-
-
+&NewLine;
+&NewLine;
 
 
 
