@@ -16,6 +16,13 @@ I'm co-founder of E-Sentience LLC, a startup that uses AI to develop microfluidi
 Please feel free to reach out if you have questions about my work & experience.
 
 
+&nbsp;
+&nbsp;
+
+### HTML <(br)/> tag
+<br />
+<br />
+
 
 
 &NewLine;
