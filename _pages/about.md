@@ -17,9 +17,11 @@ Please feel free to reach out if you have questions about my work & experience.
 
 
 
-<img src="/images/Berkeley_logo.svg" width="200px" /> <pre>  </pre>
-<img src="/images/Duke_University_logo.svg" width="140px" /> <pre>  </pre>
-<img src="/images/Tecnologico_Monterrey_logo.png" width="210px" /> <pre>  </pre>
+<img src="/images/Berkeley_logo.svg" width="200px" /> 
+
+<img src="/images/Duke_University_logo.svg" width="140px" /> 
+
+<img src="/images/Tecnologico_Monterrey_logo.png" width="210px" /> 
 
 
 
