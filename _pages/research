@@ -3,7 +3,14 @@ layout: archive
 title: "Research"
 permalink: /research/
 author_profile: true
+redirect_from:
+  - /cv
 ---
+
+{% include base_path %}
+
+
+https://github.com/j-valdiviezo/j-valdiviezo.github.io/blob/master/_pages/about.md
 
 
 Test research
