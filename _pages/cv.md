@@ -17,6 +17,7 @@ redirect_from:
 </object>
 
 
+<!---
 <p></p>
 
 Education
@@ -71,3 +72,4 @@ Service and Leadership
 * COMEXUS Selection Process Panelist - Chemistry.
 * Douglas G. Hill Memorial Lecture Co-Chair.
 * Science Clubs International Instructor.
+-->
