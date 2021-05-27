@@ -11,7 +11,7 @@ author_profile: true
 *"Jesus is amazing in teaching the course, to cover from the basic theories to the application."* – Student's evaluation (Spring 2020)
 
 
-Sharing knowledge with others is one of my biggest passions in life. Studies also suggest that teaching can make you a better researcher (Science 333.6045 (2011): 1037-1039). Indeed, various great ideas have come from my teaching experiences. A quote attributed to Albert Einstein captures well how important teaching is for scientists: "If you can't explain it simply, you don't understand it well enough." 
+Sharing knowledge with others is one of my biggest passions in life. Studies also suggest that teaching can make you a better researcher (Science 333.6045 (2011): 1037-1039). Indeed, various great ideas have come from my teaching experiences. A quote attributed to Albert Einstein captures well how important teaching is for scientists: *"If you can't explain it simply, you don't understand it well enough."* 
 
 I hold a Certificate in College Teaching from Duke University and I have been supported by instructional fellowships such as the Anne T. and Robert M. Bass Fellowship.
 
