@@ -30,6 +30,9 @@ Nucleic Acids as Molecular Wires
 ------
 I also collaborated with Prof. David Waldeck (University of Pittsburgh) and Prof. Catalina Achim (Carnegie Mellon) to study nucleic acid-based molecular wires for biocompatible electronics. In particular, we examined the single-molecule conductance of peptide nucleic acid (PNA) duplexes, molecules analogous to DNA with a peptide backbone, and compared the results with DNA duplexes with a similar base-pair sequence. We analyzed the relative contributions of coherent and incoherent transport on the conductance of these compounds. For this study, I ran molecular dynamics simulations and calculated electronic couplings between nucleobases. We published our results in the Biochemistry journal.
 
+
+Electron Ratchets
+------
 In a recent study from my group at Duke, I analyzed how nucleic acids could be used for electron ratchet devices. These devices rectify electric current over long distances using energy sources different from a net applied bias along the transport direction. We have examined ratcheting mechanisms to establish a directional charge flow through DNA structures and studied the feasibility of using the stark effect and electrochemical gating to generate ratchet potentials. We proposed experimental setups to build DNA-based electron ratchet devices. This study was submitted for publication to J. Chem Phys.
 
 
