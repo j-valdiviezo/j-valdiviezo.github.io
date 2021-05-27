@@ -37,6 +37,7 @@ More recently, as part of the NSF Center for Synthesizing Quantum Coherence (csq
 Future directions
 ======
 I seek to combine my materials simulation skills with machine learning to work on a vast array of important problems in Materials Science from all sides. We need the synergy of these two fields to address fundamental challenges in the field:  Performing accurate large-scale simulations, designing materials with unique properties, and optimizing the synthesis of relevant structures (Fig. 2). My intended postdoctoral research aligns with the objectives of the NSF’s Harnessing the Data Revolution (HDR) Big Idea and can drive innovation for the Quantum Leap Initiative.
+
 ![image](https://user-images.githubusercontent.com/40967787/119536243-db5bdd80-bd56-11eb-83da-367ae4b9065e.png)
 
 
