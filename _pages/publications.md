@@ -19,6 +19,9 @@ author_profile: true
 
 <p>You can also find my articles on <a href="https://scholar.google.com/citations?hl=en&user=SfdJnEgAAAAJ">my Google Scholar profile</a>.</p>
 
+
+Peer-reviewed journal articles
+======
 1. J. Valdiviezo, P. Zhang and D. N. Beratan. Electron Ratcheting in Self‑Assembled Soft Matter. J. Chem. Phys., In Review.
 2. J. Valdiviezo†, C. Clever†, E. Beall, A. Pearse, Y. Bae, P. Zhang, C. Achim, D. N. Beratan and D. H. Waldeck. Delocalization‑Assisted Transport
 through Nucleic Acids in Molecular Junctions. Biochemistry, 2021, 60(17), pp.1368‑1378.
@@ -33,4 +36,10 @@ Co(III)(cyclam): Synthesis, Ultrafast Charge Separation and Analysis. Inorg. Che
 7. J. Valdiviezo and J. L. Palma. Molecular Rectification Enhancement Based on Conformational and Chemical Modifications. J. Phys. Chem. C.,
 2018, 122(4), pp.2053–2063.
 
+Books
+======
+1. D. N. Beratan., J. Valdiviezo, J. Yuly and P. Zhang. Dynamical Chemistry: A Hands‑on Guidebook for Understanding Coherence Phenomena in
+Chemistry. In Preparation.
+
+† Contributed equally.
 
