@@ -25,15 +25,21 @@ I worked with Prof. Julio L. Palma (Penn State) in molecular electronics to dete
 
 We have also studied the conductance properties of acene-based molecular wires, which are the building blocks of graphene. We found that contrary to the exponential decay with length expected for molecular devices, these systems exhibit a near length-independent conductance behavior that is robust to chemical substitution and doping (ACS Sens. 2021, DOI: 10.1021/acssensors.0c02049).
 
+![image](https://user-images.githubusercontent.com/40967787/119873725-d3d13b80-bef2-11eb-94de-4dc6316b2bb9.png)
+
 
 Nucleic Acids as Molecular Wires
 ------
 I also collaborated with Prof. David Waldeck (University of Pittsburgh) and Prof. Catalina Achim (Carnegie Mellon) to study nucleic acid-based molecular wires for biocompatible electronics. In particular, we examined the single-molecule conductance of peptide nucleic acid (PNA) duplexes, molecules analogous to DNA with a peptide backbone, and compared the results with DNA duplexes with a similar base-pair sequence. We analyzed the relative contributions of coherent and incoherent transport on the conductance of these compounds. For this study, I ran molecular dynamics simulations and calculated electronic couplings between nucleobases. We published our results in the Biochemistry journal.
 
+ ![image](https://user-images.githubusercontent.com/40967787/119873624-b7cd9a00-bef2-11eb-8501-54c69657989a.png)
+
 
 Electron Ratchets
 ------
 In a recent study from my group at Duke, I analyzed how nucleic acids could be used for electron ratchet devices. These devices rectify electric current over long distances using energy sources different from a net applied bias along the transport direction. We have examined ratcheting mechanisms to establish a directional charge flow through DNA structures and studied the feasibility of using the stark effect and electrochemical gating to generate ratchet potentials. We proposed experimental setups to build DNA-based electron ratchet devices. This study was submitted for publication to J. Chem Phys.
+
+![image](https://user-images.githubusercontent.com/40967787/119874048-36c2d280-bef3-11eb-976f-27675818b457.png)
 
 
 Characterization of Photoinduced Electron Transfer in Molecular Systems
@@ -45,9 +51,14 @@ Electron Transfer Control with Vibrational Excitations
 My research on optically active charge-transfer complexes explores how vibrational perturbations to molecules change the electron transfer dynamics and create, sustain, and exploit quantum coherence in chromophore aggregate systems. In collaboration with Prof. Igor V. Rubtsov (Tulane University) and Prof. Tong Ren (Purdue University), I employed density functional theory and time-dependent density functional theory to investigate the excited state dynamics of organic and organometallic D-B-A complexes (Inorg. Chem. 2019, 58, 15487–15497 & Phys. Chem. Chem. Phys., 2020, 22, 9664-9676). My contribution to this research project also resulted in an NSF award (1955138). 
 
 
+![image](https://user-images.githubusercontent.com/40967787/119874112-47734880-bef3-11eb-85a8-bd71977c40a6.png)
+
+
 Exploiting Molecular Coherences for Directed Energy Flow
 ------
 More recently, as part of the NSF Center for Synthesizing Quantum Coherence (csqc.duke.edu), I have collaborated with researchers from the groups of Prof. Graham Fleming (UC Berkeley), Prof. Michael Wasielewski (Northwestern), Prof. Nancy Makri (UIUC), and Prof. Michael Therien (Duke). I am designing molecular candidates that can sustain quantum coherence and produce efficient charge and energy transfer. Specifically, I computationally designed a light-harvesting artificial complex with efficient electron transfer assisted by a non-thermal energy transfer process known as quantum ratcheted energy transport. The electronic structure and photophysical properties of the compound were studied using time-dependent density functional theory and used to characterize its excited state dynamics employing quantum dynamics simulations. The computational results will guide future synthesis and experimental characterization of the light-harvesting complex with two-dimensional electronic vibrational spectroscopy to extract energy from red photons through non-thermal mechanisms.
+
+![image](https://user-images.githubusercontent.com/40967787/119874320-77225080-bef3-11eb-96a5-ac94b3b14360.png)
 
 
 Future Directions
