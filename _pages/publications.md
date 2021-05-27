@@ -33,7 +33,7 @@ in Butadiyne‑Bridged Donor–Bridge–Acceptor Compounds. *Phys. Chem. Chem. P
 6. S. D. Banziger†, X. Li†, J. Valdiviezo, M. Zeller, P. Zhang, D. N. Beratan, I. V. Rubtsov and T. Ren. Unsymmetrical Bis–Alkynyl Complexes Based on
 Co(III)(cyclam): Synthesis, Ultrafast Charge Separation and Analysis. *Inorg. Chem.*, **2019**, 58(22), pp.15487‑15497.
 7. J. Valdiviezo and J. L. Palma. Molecular Rectification Enhancement Based on Conformational and Chemical Modifications. *J. Phys. Chem. C.*,
-**2018**, 122(4), pp.2053–2063. [Link](https://doi.org/10.1021/acs.jpcc.7b12780 "DOI: 10.1021/acs.jpcc.7b12780")
+**2018**, 122(4), pp.2053–2063. [DOI: 10.1021/acs.jpcc.7b12780](https://doi.org/10.1021/acs.jpcc.7b12780)
 
 Books
 ======
