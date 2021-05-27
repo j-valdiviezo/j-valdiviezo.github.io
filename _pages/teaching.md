@@ -13,6 +13,8 @@ author_profile: true
 
 Sharing knowledge with others is one of my biggest passions in life. Studies also suggest that teaching can make you a better researcher (Science 333.6045 (2011): 1037-1039). Indeed, various great ideas have come from my teaching experiences. A quote attributed to Albert Einstein captures well how important teaching is for scientists: "If you can't explain it simply, you don't understand it well enough." 
 
+I hold a Certificate in College Teaching from Duke University and I have been supported by instructional fellowships such as the Anne T. and Robert M. Bass Fellowship.
+
 My teaching interests span all subdisciplines of chemistry, modern physics, and core concepts of biology and biochemistry. I can teach a broad range of introductory science courses, physical chemistry, energy materials and applied machine learning courses with a high level of expertise. 
 
 <p><a href="/files/teachingStatement.pdf">Teaching Statement</a></p>
