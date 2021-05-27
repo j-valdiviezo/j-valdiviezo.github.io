@@ -7,8 +7,16 @@ author_profile: true
 
 {% include base_path %}
 
-Tuning Charge Transport Properties of Nanodevices
+
+
+My teaching interests span all subdisciplines of chemistry, modern physics, and core concepts of biology and biochemistry. While I can teach a broad range of introductory science courses at the undergraduate level, I feel I could teach advanced chemistry and solar technologies courses with a high level of expertise.
+
+
+Duke University
 ======
 
+* CHEM 590 - Special Topics in Chemistry: Quantum Dynamics
+  * <p><a href="/files/SyllabusQD_JV.pdf">Syllabus</a>.</p>
 
-My teaching interests span all subdisciplines of chemistry, modern physics, and core concepts of biology and biochemistry. While I can teach a broad range of introductory science courses at the undergraduate level, I feel I could teach advanced chemistry and solar technologies courses with a high level of expertise. 
+* CHEM 590 - Special Topics in Chemistry: Quantum Dynamics
+  * <p><a href="/files/SyllabusMS_JV.pdf">Syllabus</a>.</p>
