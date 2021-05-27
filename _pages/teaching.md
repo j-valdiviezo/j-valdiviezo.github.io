@@ -15,6 +15,9 @@ My teaching interests span all subdisciplines of chemistry, modern physics, and 
 
 
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PLWaYK2JmCe_2deszLIYr-9kTZc6pnIQ5S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
 
 Duke University
 ======
@@ -27,3 +30,16 @@ Duke University
 
 Science Clubs International
 ======
+
+* CHEM 590 - Special Topics in Chemistry: Quantum Dynamics (Fall 2020)
+  * <p><a href="/files/SyllabusQD_JV.pdf">Syllabus</a></p>
+
+* CHEM 590 - Special Topics in Chemistry: Quantum Dynamics (Fall 2020)
+  * <p><a href="/files/SyllabusQD_JV.pdf">Syllabus</a></p>
+
+* CHEM 590 - Special Topics in Chemistry: Quantum Dynamics (Fall 2020)
+  * <p><a href="/files/SyllabusQD_JV.pdf">Syllabus</a></p>
+
+* CHEM 590 - Special Topics in Chemistry: Quantum Dynamics (Fall 2020)
+  * <p><a href="/files/SyllabusQD_JV.pdf">Syllabus</a></p>
+
