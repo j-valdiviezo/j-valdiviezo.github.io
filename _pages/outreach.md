@@ -7,8 +7,16 @@ author_profile: true
 
 {% include base_path %}
 
+Throughout my career, I have had the opportunity to share my excitement for STEM with community members from all ages.
+
+
+* Science Clubs International | 
 
 <img src="/images/teachingCdeCMx.jpeg" width="500px" /> 
+
+
+* Taller de Química (Chemistry Workshop) - 
+
 
 
 
