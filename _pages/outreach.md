@@ -12,4 +12,7 @@ author_profile: true
 
 
 
+<img src="/images/teachingTallerQuimica.jpeg" width="500px" /> 
+
+
 
