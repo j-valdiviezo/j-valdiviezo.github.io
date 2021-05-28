@@ -17,8 +17,8 @@ I hold a Certificate in College Teaching from Duke University and I have been su
 
 My teaching interests span all subdisciplines of chemistry, modern physics, and core concepts of biology and biochemistry. I can teach a broad range of introductory science courses, physical chemistry, energy materials and applied machine learning courses with a high level of expertise. 
 
-<p><a href="/files/teachingStatement.pdf">Teaching Statement</a></p>
-<p><a href="/files/diversityStatement.pdf">Diversity Statement</a></p>
+<p><a href="/files/teachingPhilosophy.pdf">Teaching Philosophy</a></p>
+
 
 
 Duke University
