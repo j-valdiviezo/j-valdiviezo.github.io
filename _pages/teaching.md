@@ -54,7 +54,7 @@ I co-designed the curriculum and co-instructed four one-week intensive courses f
   * <p><a href="/files/SyllabusMTY.pdf">Syllabus</a></p>
 
 
-miniMOOC
+MiniMOOC
 ------
 
 I participated as an instructor of a miniMOOC. 
