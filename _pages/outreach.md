@@ -10,7 +10,7 @@ author_profile: true
 Throughout my career, I have had the opportunity to share my excitement for STEM with community members from all ages.
 
 
-* Science Clubs International | 
+* Science Clubs International | ddf
 
 <img src="/images/teachingCdeCMx.jpeg" width="500px" /> 
 
