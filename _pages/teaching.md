@@ -39,7 +39,7 @@ Science Clubs International
 Science Clubs
 ------
 
-I co-designed the curriculum and co-instructed four one-week intensive courses for undergraduates. 
+I co-designed the curriculum and co-instructed four one-week intensive courses for undergraduates organized by ![link]{https://www.scienceclubsint.org/}Science Clubs International.
 
 * Dancing with Enzymes: Designing the Drugs of the Future - EN (Mar. 2021)
   * <p><a href="/files/SyllabusSCI.pdf">Syllabus</a></p>
