@@ -13,6 +13,7 @@ Throughout my career, I have had the opportunity to share my excitement for STEM
 * Clubes de Ciencia Mexico
 * MRS Outreach
 * Duke Outreach
+* Juntos - NC State
 * Taller de Química (Chemistry Workshop)
 
 <img src="/images/teachingCdeCMx.jpeg" width="500px" /> 
